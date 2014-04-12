@@ -16,7 +16,9 @@ function agregarCampo(){
 		"   </tr>" +
 		"</table>";
 	var contenedor= document.getElementById("contenedorcampos");
-    contenedor.appendChild(NvoCampo);
+    contenedor.appendChild(NvoCampo);         
+
+    
   }
 
 
